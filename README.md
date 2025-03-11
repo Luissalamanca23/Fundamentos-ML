@@ -10,7 +10,7 @@ Cada clase cuenta con un notebook en Google Colab donde se desarrollan los conce
 
 | Clase | Título | Enlace |
 |-------|--------|--------|
-| 01    | Introducción a Machine Learning (Limpieza de datos) | [Colab](https://drive.google.com/drive/folders/1RV4YBXwdyrY8PJZdlYH8_GcP2sHo6hA1?usp=share_link) |
+| 01    | Introducción a Machine Learning (Limpieza de datos) | <a href="https://colab.research.google.com/github/Luissalamanca23/Fundamentos-ML/blob/main/1_1_3_Manejo_de_Datos.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 ## 📖 Requisitos
 
