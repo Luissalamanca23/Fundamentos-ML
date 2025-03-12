@@ -17,9 +17,6 @@ Cada clase cuenta con un notebook en Google Colab donde se desarrollan los conce
 
 
 
-
-1_2_2_Estadistica_Descriptiva_I.ipynb
-
 ## 📖 Requisitos
 
 Para ejecutar los notebooks en Google Colab, necesitarás:
