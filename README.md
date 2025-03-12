@@ -11,7 +11,7 @@ Cada clase cuenta con un notebook en Google Colab donde se desarrollan los conce
 | Clase | Título | Enlace |
 |-------|--------|--------|
 | 01    | Introducción a Machine Learning (Datos) | <a href="https://colab.research.google.com/github/Luissalamanca23/Fundamentos-ML/blob/main/1_1_3_Manejo_de_Datos.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| 02    | Introducción a Machine Learning (MPL) | <a href="https://colab.research.google.com/github/Luissalamanca23/Fundamentos-ML/blob/main/1_2_2_Estadistica_Descriptiva_I.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 02    | Introducción de Estadistica para ML | <a href="https://colab.research.google.com/github/Luissalamanca23/Fundamentos-ML/blob/main/1_2_2_Estadistica_Descriptiva_I.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 
 
